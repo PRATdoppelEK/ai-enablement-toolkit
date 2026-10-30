@@ -5,6 +5,11 @@
 Built by [Prateek Gaur](https://prateek-gaur-ml-bz0s69q.gamma.site) — AI Enablement Engineer | github.com/PRATdoppelEK
 
 ---
+
+> **📌 About this repo:** This is a showcase repo — write-up, architecture, and results only. The full implementation lives in a private core repo (kept private to protect the code and as a backup) and is available for a live walkthrough on request, e.g. in an interview.
+
+---
+
 ![HR Ticket Classifier Demo](screenshots/asset.png)
 
 ## What This Repository Is
@@ -82,13 +87,15 @@ See full guide: [`workflows/hr-ticket-classification/`](workflows/hr-ticket-clas
 
 ## 📊 Use Cases Documented
 
-| Use Case | Tool | Time Saved | Risk Level |
+| Use Case | Tool | Expected Time Saved | Risk Level |
 |----------|------|------------|------------|
 | HR ticket classification | Make.com + Claude API | ~70% routing time | Low |
 | Meeting summaries | MS Copilot / Make.com | 30-60 min/meeting | Very Low |
 | Policy Q&A | Claude Projects | ~50% fewer HR queries | Low |
 | Document draft generation | Claude Projects | ~80% drafting time | Low |
 | Process bottleneck analysis | n8n + data export | Immediate visibility | Very Low |
+
+*Expected savings are planning estimates for these workflow types, not measured results.*
 
 ---
 
